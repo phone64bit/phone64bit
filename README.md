@@ -1,6 +1,7 @@
 # Who Am I?
-I'm Sanu Charutwaraphun (Phone) :smile:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Taka_Shiba.jpg/1200px-Taka_Shiba.jpg" width=50%>
+
+I'm Sanu Charutwaraphun (Phone) :smile:
 
 Computer Engineering And Digital Technology Chulalongkorn University
 
