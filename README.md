@@ -4,7 +4,6 @@
 
 <img src="https://i.pinimg.com/564x/65/34/c3/6534c3e6376bdbaaebfe83dee66f5fbb.jpg" width=30%>
 
-![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=phone64bit) 
 ![My Discord](https://discord-readme-badge.vercel.app/api?id=371998522666516481)
 
 - 🌱 I’m currently learning **Competitive Programming** and **Full Stack Development**
